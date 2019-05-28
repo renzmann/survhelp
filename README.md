@@ -1,2 +1,4 @@
 # survhelp
-Helper functions for survival analysis
+
+Some simple helper functions I use in conjunction with CamDavisonPilon's 
+lovely [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) package.
